@@ -23,7 +23,6 @@ Walkthrough
 > GET /bob HTTP/1.1
 > Host: bob.example
 ...
-
 < HTTP/1.1 401 Authorization Required
 < WWW-Authenticate: Page-Owner-Token
 ...
