@@ -1,3 +1,5 @@
+For some context, see: https://gist.github.com/sandhawke/bf5f0c7733050fd1b11b
+
 Simple Page-Owner Token (SPOT) Authentication
 =============================================
 
